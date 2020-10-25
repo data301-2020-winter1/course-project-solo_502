@@ -1,0 +1,1 @@
+The data/raw directory contains the raw data from ClimateBC.
