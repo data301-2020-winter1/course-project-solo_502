@@ -19,9 +19,9 @@ which changes are projected to occur in the observed variables until the year 20
 in the data must be found and subsequently tested on their statistical significance.
 General trends in climate can be seen as a warming of the atmosphere, overall more, 
 heavier precepitation events but also more frequent regional droughts. Climate change often presents itself 
-as a shift in regional climates and I would like to see 
-which of these changes are manifesting at the chosen locations in the region.
-I expect to observe a decline in precipiation at coastal ski resorts in more recent times while continental ski resort will be affected.
+as a shift in regional climates and I would like to see which of these changes are manifesting at the chosen locations in the region.
+I expect to observe a decline in precipiation (snow) at coastal ski resorts in more recent times while continental 
+ski resort will be less affected.
 
 ## Describe your dataset in about 150-200 words
 
