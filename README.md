@@ -12,7 +12,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 >Climate change is affecting our environments in unprecedented ways and changes are happening faster than ever. 
 My research is trying to observe which of these changes can be measured and shown in western North America, notably at ski resorts, 
 with the help of meteorological data dating back to 1901. For this analysis, 
-I have chosen 2 locations for which I will thoroughly analysize the weather data of the past and projected climate trends in the future for now. 
+I have chosen 2 locations for which I will thoroughly analysize the climate data of the past and projected climate trends in the future for now. 
 The python code will then be used to organize and evaluate data for multiple other locations of ski resort in western North America.
 I'm interested in what climate trends are observable with the given data for the last 120 years and 
 which changes are projected to occur in the observed variables until the year 2085. This means that examined trends 
