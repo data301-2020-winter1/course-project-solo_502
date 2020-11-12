@@ -1,4 +1,4 @@
-The data/raw directory contains the raw data from ClimateBC.
+### The data/raw directory contains the raw data from ClimateBC.
 The different datasets are from different locations with an additional document containing the projected future climatic variables for this location
 
 ## potential variables of interest:

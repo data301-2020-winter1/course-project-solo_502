@@ -44,5 +44,5 @@ Wendelin Giesler: I'm a German graduate student studying climatology with a back
 
 ## References
 
-[link to ClimateBC] (http://climatebc.ca/)
+[ClimateBC] (http://climatebc.ca/)
 
