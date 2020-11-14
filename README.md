@@ -54,7 +54,7 @@ Wendelin Giesler: I'm a German graduate student studying climatology with a back
 >The *data* directory contains the raw and the processed data. The *analysis* directory contains the project function used to clean 
 and wrangle the data as well as individual notebooks for each ski resort. In each notebook, the ski resort data gets
 analyzed, cleaned and visualized using the same code. The resulting graphs are saved in the *images* directory.
-Since I wrote the code while analyzing data for data from Whistler, the file **Whistler_analysis** contains very specific explanations,
+Since I wrote the code while analyzing data for data from Whistler, the file **Whistler** contains very specific explanations,
 comments and interpretations of my code and data. All the other notebooks are simply copies of said code that analyze the
 data from a different locations. Hence the explanations are not quite as detailed in these notebooks.
 
