@@ -52,10 +52,14 @@ Wendelin Giesler: I'm a German graduate student studying climatology with a back
 ## Organization of the Project
 
 >The *data* directory contains the raw and the processed data. The *analysis* directory contains the project function used to clean 
-and wrangle the data as well as individual notebooks for each ski resort. In each notebook, the ski resort data gets
-analyzed, cleaned and visualized using the same code. The resulting graphs are saved in the *images* directory.
+and wrangle the data in *project_function* as well as individual notebooks for each ski resort in the subdirectory *ski resort scripts*. 
+In each notebook, the respective ski resort data is analyzed, cleaned and visualized using the same code. The specific conclusions and comments are 
+results of the graphs in each individual notebook. The graphs are saved in the *images* directory for further comparison.
 Since I wrote the code while analyzing data for data from Whistler, the file **Whistler_analysis** contains very specific explanations,
 comments and interpretations of my code and data. All the other notebooks are simply copies of said code that analyze the
-data from a different locations. Hence the explanations are not quite as detailed in these notebooks.
+data from a different locations. Hence the explanations are not quite as detailed in these additional notebooks.
 
+## Future work
 
+> Depending on the nature of the future milestones I will adapt the analysis of this project. This could include investigation of more ski 
+resorts, detailed comparisons of the analyzed ski resorts or simply an extension of the current analysis with different or additional graphs.
