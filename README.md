@@ -1,5 +1,5 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=311722&assignment_repo_type=GroupAssignmentRepo)
-# Group 502 - {###Climate Change in ski resorts of the West}
+# Group 502 - {Climate Change in ski resorts of the West}
 
 - Your title can change over time.
 
@@ -52,10 +52,16 @@ Wendelin Giesler: I'm a German graduate student studying climatology with a back
 ## Organization of the Project
 
 >The *data* directory contains the raw and the processed data. The *analysis* directory contains the project function used to clean 
+<<<<<<< HEAD
 and wrangle the data in *project_function* as well as individual notebooks for each ski resort in the subdirectory *ski resort scripts*. 
 In each notebook, the respective ski resort data is analyzed, cleaned and visualized using the same code. The specific conclusions and comments are 
 results of the graphs in each individual notebook. The graphs are saved in the *images* directory for further comparison.
 Since I wrote the code while analyzing data for data from Whistler, the file **Whistler_analysis** contains very specific explanations,
+=======
+and wrangle the data as well as individual notebooks for each ski resort. In each notebook, the ski resort data gets
+analyzed, cleaned and visualized using the same code. The resulting graphs are saved in the *images* directory.
+Since I wrote the code while analyzing data for data from Whistler, the file **Whistler.ipynb** contains very specific explanations,
+>>>>>>> 8c366b50e08148dc0bbfee2c81e282c83f0f07db
 comments and interpretations of my code and data. All the other notebooks are simply copies of said code that analyze the
 data from a different locations. Hence the explanations are not quite as detailed in these additional notebooks.
 
