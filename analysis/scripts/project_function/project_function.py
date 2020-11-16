@@ -7,9 +7,6 @@ import matplotlib.pylab as pylab
 import pandas_profiling
 import matplotlib.dates as mdates
 
-# df = pd.read_csv(r'C:\Users\Len\Documents\GitHub\solo_502\course-project-solo_502\data\raw\ClimateData_Whistler.csv')
-
-
 def load_and_process(path_to_csv_file):
     
     # separating monthaly variables from the dataframe
@@ -90,4 +87,4 @@ def load_and_process(path_to_csv_file):
                            'Evaporation', 'Moisture Deficit', 'Relative Humidity']
 #     print(annual_data)
     
-load_and_process(r'C:\Users\Len\Documents\GitHub\solo_502\course-project-solo_502\data\raw\ClimateData_Whistler.csv')
+# load_and_process(path_to_cvs)
