@@ -56,7 +56,7 @@ The *analysis* directory contains the project function (*project_function*) used
 individual notebooks (*ski resort scripts*) for each ski resort in the *scripts* subdirectory. In each notebook, the ski resort data gets
 analyzed, cleaned and visualized using the same code. The specific conclusions and comments are 
 results of the graphs in each individual notebook. The graphs are saved in the *images* directory for further comparison.
-Since I wrote the code while analyzing data for data from Whistler, the file **Whistler_analysis** contains my main analysis in the form of
+Since I wrote the code while analyzing data for data from Whistler, the file **Milestone 3** contains my main analysis in the form of
 very specific explanations, comments and interpretations of my code and data. 
 All the other notebooks are simply copies of said code that analyze thedata from a different locations. 
 Hence the explanations are not quite as detailed in these additional notebooks.
