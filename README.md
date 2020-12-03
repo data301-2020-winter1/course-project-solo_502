@@ -65,3 +65,7 @@ Hence the explanations are not quite as detailed in these additional notebooks.
 
 > Depending on the nature of the future milestones I will adapt the analysis of this project. This could include investigation of more ski 
 resorts, detailed comparisons of the analyzed ski resorts or simply an extension of the current analysis with different or additional graphs.
+
+## Milestone 4 video
+
+> I presented my dashboard during class and I'm happy with how it went. Dr. Firas noted that I should simply point you towards the recording of the class from December 2. I was the first person to present that day.
